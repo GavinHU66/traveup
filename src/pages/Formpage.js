@@ -1,14 +1,14 @@
    
 import React, { Component } from 'react';
 
-class Homepage extends Component {
+class Formpage extends Component {
   render() {
     return (
         <div>
-            <h1>this is Homepage</h1>
+            <h1>this is Formpage</h1>
         </div>
     );
   }
 }
 
-export default Homepage;
+export default Formpage;
