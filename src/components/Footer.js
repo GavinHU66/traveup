@@ -1,14 +1,14 @@
    
 import React, { Component } from 'react';
 
-class Navigator extends Component {
+class Footer extends Component {
   render() {
     return (
         <div>
-            <p>this is Navigator</p>
+            <p>this is Footer</p>
         </div>
     );
   }
 }
 
-export default Navigator;
+export default Footer;
